@@ -7,6 +7,8 @@ body{
     font-size: 18px;
     color: #273444;
     font-weight: 700;
+    width: 990px;
+    margin:0 auto 20px;
 }
 
 .list{
